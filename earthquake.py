@@ -15,7 +15,6 @@ Fields:
     location - approximate location of the earthquake
     place - description of the epicenter where the earthquake occurred
 
-@author: Jonathan Hoffman
 """
 
 
